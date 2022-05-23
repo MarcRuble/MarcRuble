@@ -4,12 +4,14 @@ I am...
 * 🧑 Marc Ruble
 * 🦉 Student of Media Informatics at Saarland University
 * 🥽 Researching in Mixed Reality
-* 📸 Working in Computer Graphics / Rendering
+* 📸 Working as Software Developer, specifically Computer Graphics / Rendering
 * 🎮 Hobby Game Developer
 * 🌱 Currently amazed learning Rust
 
 ### Portfolio 📺
-**TODO:** `Write me!`
+See my games on:
+* [itch.io](https://marcruble.itch.io/)
+* [Global Game Jam](https://globalgamejam.org/users/marcruble)
 
 <!--
 **MarcRuble/MarcRuble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
