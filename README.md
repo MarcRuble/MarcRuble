@@ -9,7 +9,7 @@ I am...
 * 🌱 Currently amazed learning Rust
 
 ### Portfolio 📺
-Currently working on a 3D puzzle platformer called Clubies! 🎲\
+Currently involved in a 3D puzzle platformer called Clubies! 🎲\
 Check it out: [clubies.de](https://clubies.de/)
 
 See further of my games on:
