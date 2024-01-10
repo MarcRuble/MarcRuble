@@ -2,7 +2,7 @@
 
 I am... 
 * 🧑 Marc Ruble
-* 🦉 Student of Media Informatics at Saarland University
+* 🦉 Former Student of Media Informatics at Saarland University
 * 🥽 Researching in Mixed Reality
 * 📸 Working as Software Developer, specifically Computer Graphics / Rendering
 * 🎮 Hobby Game Developer
