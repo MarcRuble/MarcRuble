@@ -3,9 +3,9 @@
 I am... 
 * 🧑 Marc Ruble
 * 🦉 Former Student of Media Informatics at Saarland University
-* 🥽 Researching in Mixed Reality
-* 📸 Working as Software Developer, specifically Computer Graphics / Rendering
-* 🎮 Hobby Game Developer
+* 🥽 Former Researcher in Mixed Reality
+* 📸 Working as fullstack Software Developer, focus on Frontend / 3D Rendering
+* 🎮 Co-founder of [Cluby Games](https://clubies.de/)
 * 🌱 Currently amazed learning Rust
 
 ### Portfolio 📺
